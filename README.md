@@ -1,6 +1,10 @@
-- 👋 hi, I’m mckale!
+# 🐳 hi, I’m mckale!
+========
 - I like creative programming, robotics, and illustration!
-- I'm a mechatronics engineering student at the university of waterloo
+- Interested in UX, animation, Machine Learning, computer graphics
+- I'm a first year mechatronics engineering student at the university of waterloo
+
+
 
 - I will updated this more further on. Thanks for stopping by! :)
 
