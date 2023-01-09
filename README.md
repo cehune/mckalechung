@@ -1,8 +1,8 @@
-# 🐳 hi, I’m mckale!
+# hi, I’m mckale!
 ========
 
 ## first year mechatronics engineering student at the university of waterloo
-## incoming test automation intern at Ford
+## test automation intern at Ford
 
 * I like creative programming, robotics, and illustration!
 * Interested in UX, animation, Machine Learning, computer graphics
