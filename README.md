@@ -1,5 +1,5 @@
 # hi, I’m mckale!
-# # [wheck my website for a more-indepth look](https://mckalechung.github.io/)
+#  [check my website for a more-indepth look](https://mckalechung.github.io/)
 ========
 
 ## first year mechatronics engineering student at the university of waterloo
